@@ -1,0 +1,44 @@
+[
+    {
+        "question": "5 + 6 kaç eder ?",
+        "answers":["11"],
+        "point": 10,
+        "hintEnable": false
+    },
+    {
+        "question": "5 - 6 kaç eder ?",
+        "answers":["-1"],
+        "point": 10,
+        "hintEnable": false
+    },
+    {
+        "question": "92 x 11 kaç eder ?",
+        "answers":["1012"],
+        "point": 40,
+        "hintEnable": false
+    },
+    {
+        "question": "10 ila 20 arasında kaç asal sayı vardır  ?",
+        "answers":["4"],
+        "point": 30,
+        "hintEnable": false
+    },
+    {
+        "question": "SOPA grubunun solo gitaristinin adı nedir(sadece adı) ?",
+        "answers":["okan"],
+        "point": 30,
+        "hintEnable": false
+    },
+    {
+        "question": "Do Bemol ?",
+        "answers": ["si"],
+        "point": 50,
+        "hintEnable": false
+    },
+    {
+        "question": "R&B nin açılımı nedir  ?",
+        "answers": ["Rhythm and blues","Rhythmandblues"],
+        "point": 30,
+        "hintEnable": false
+    }
+]
